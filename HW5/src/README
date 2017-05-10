@@ -1,0 +1,8 @@
+After pressing the running button the GUI table will appear enter the amounts in the white spaces for each of the 
+fields press the "calculate expenses" button to calculate the total expenses. 
+A second window will show displaying:
+- Total expenses incurred by the business person
+- The total allowable expenses for the trip
+- The excess that must be paid by the business person, if any
+- The amount saved by the business person if the expenses are under the total allowed
+ 
